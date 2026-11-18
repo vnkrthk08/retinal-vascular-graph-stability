@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.py[cod]
+data/raw/
+data/HRF/
+data/CHASE_DB1/
+results/*.csv
+results/figures/*.png
+results/graphs/*.graphml
+!results/.gitkeep
+!results/figures/.gitkeep
+!results/graphs/.gitkeep
+.DS_Store
+Thumbs.db

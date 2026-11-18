@@ -1,0 +1,1 @@
+Run `python scripts/download_data.py` to retrieve HRF and CHASE_DB1 from their official providers. The original images and annotations are excluded from Git and downloaded under their respective CC BY 4.0 terms.
